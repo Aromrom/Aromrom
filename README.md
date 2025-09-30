@@ -34,12 +34,4 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" alt="azure logo"  />
 </div>
 
-###
 
-<div align="center">
-  <a href="https://open.spotify.com/user/nonanona1">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=nonanona1&count=5&unique=false" alt="Spotify recently played"  />
-  </a>
-</div>
-
-###
