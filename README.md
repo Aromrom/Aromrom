@@ -36,17 +36,6 @@
 
 ###
 
-<h2 align="left">Contact me on:</h2>
-
-###
-
-<div align="left">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="www.linkedin.com/in/arom-rocca-mendez"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
-</div>
-
-###
-
 <div align="center">
   <a href="https://open.spotify.com/user/nonanona1">
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=nonanona1&count=5&unique=false" alt="Spotify recently played"  />
