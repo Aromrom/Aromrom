@@ -1,16 +1,46 @@
-<h1 align="left">Hey 👋 Nice to see you</h1>
 
 ###
 
-<p align="left">My name is Arom and I'm a aspiring data analyst from Venezuela currently living in the UK.</p>
+# 👋 Hi, I'm Arom!
 
-###
+🎯 **Aspiring Data Analyst** with a passion for turning raw data into actionable insights. I love working with data to uncover trends, create compelling visual stories, and support data-driven decision-making.
 
-<h2 align="left">About me</h2>
+---
 
-###
+## 🛠️ My Data Toolbox
 
-<p align="left">✨ Creating bugs since 2024<br>📚 I'm currently learning Python<br>🎯 Goals: I would love to start working in the data field before the year ends<br>🎲 Fun fact: I paint miniatures in my spare time</p>
+Here are the tools and technologies I'm learning and using:
+
+### 📊 Excel
+- Data Cleaning & Transformation  
+- Pivot Tables & Pivot Charts  
+- Functions & Formulas (VLOOKUP, IF, INDEX-MATCH, etc.)
+
+### 📈 Tableau
+- Creating Interactive Data Visualizations  
+- Variety of Chart Types  
+- Using Calculated Fields for deeper insights
+
+### 📊 Power BI
+- Power Query for Data Transformation  
+- Designing Reports & Dashboards  
+- DAX for custom measures & calculated columns
+
+### 🗃️ MySQL
+- Writing Basic Queries: `SELECT`, `FROM`, `WHERE`, `ORDER BY`, `GROUP BY`, `JOIN`  
+- Extracting insights from relational databases
+
+### 🐍 Python
+- Data Analysis with **Pandas**  
+- Data Visualization with **Seaborn** and **Matplotlib**
+
+---
+
+## 🌱 Currently Learning
+- More advanced Python for data manipulation  
+- Advanced SQL techniques  
+- Building real-world data projects to showcase my skills
+
 
 ###
 
